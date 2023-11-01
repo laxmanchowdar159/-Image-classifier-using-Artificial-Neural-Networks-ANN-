@@ -17,7 +17,7 @@ You can install these libraries using pip:
 
 ```bash
 pip install tensorflow matplotlib numpy pandas seaborn
-
+```
 Loading and Preprocessing the Data
 
   We start by loading the MNIST dataset, which consists of hand-written digits. The dataset is split into training and test sets. Here's a summary of the data:
